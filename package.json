@@ -1,6 +1,7 @@
 {
-  "name": "frontendproject",
-  "version": "0.1.0",
+  "name": "lumina-seo-landing",
+  "version": "1.0.0",
+  "description": "A premium, high-fidelity dark mode landing page for Lumina SEO SaaS, featuring next-gen animations and smooth scrolling.",
   "private": true,
   "scripts": {
     "dev": "next dev",
