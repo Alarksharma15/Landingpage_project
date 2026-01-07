@@ -2,7 +2,7 @@
 
 import { GlassContainer } from "@/components/ui/GlassContainer";
 import { cn } from "@/lib/utils";
-import { ArrowupRight, BarChart3, CheckCircle2, ChevronDown, Filter, Layers, Link as LinkIcon, MoreHorizontal, Search, Settings } from "lucide-react";
+import { ArrowUpRight, BarChart3, CheckCircle2, ChevronDown, Filter, Layers, Link as LinkIcon, MoreHorizontal, Search, Settings } from "lucide-react";
 import { useState } from "react";
 
 export function FeatureDeepDive() {
